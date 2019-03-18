@@ -1,0 +1,16 @@
+# Audit request
+
+... Briefly describe your smart-contract and its main purposes here ...
+
+# Source code
+
+... Give a link to the source code of contracts ...
+
+# Disclosure policy
+
+... Do you want us to publish the report as it is or to notify you privately in case of finding critical mistakes? ...
+... provide your email if you want us to send you a notification ...
+
+# Platform
+
+... In which network will your contract be deployed? (ETC/ETH/CLO/UBQ/EXP/something else ) ...
